@@ -1,0 +1,135 @@
+body{
+margin:0;
+padding:0;
+font: bold 13px Arial,Tahoma,Vardana, sans-serif;   
+}
+a{
+	text-decoration:none; 
+}
+.black-line{
+	height: 15px;
+	background-color: rgb(9,9,9);
+}
+.center{
+	width: 960px;
+	margin:0 auto;
+}
+.header{
+	height: 140px;
+	border-bottom: 1px solid rgb(192,192,192)
+}
+
+.logo{
+	float: left;
+	margin-top: 20px;
+}
+.menu{
+	float: right;
+	margin-top: 20px;
+}
+.menu>ul>li{
+	display: inline-block;
+	list-style-type: none;
+}
+.menu>ul>li>a{
+	color: rgb(254,155,0);
+	margin:0 0 0 35px 
+}
+.menu>ul>li>a:hover{
+	color: rgb(9,9,9);
+	margin:0 0 0 35px 
+}
+.main-header{
+	margin:20px 0; 
+	border-bottom: 1px solid rgb(192,192,192)
+}
+.main-header>img{
+	margin: 0 0 15px 0;
+}
+
+
+
+.main-block-1{
+	float: left;
+	height: 250px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid rgb(192,192,192)
+}
+.main-block-1>p{
+	font: 13px Arial,Tahoma,Vardana, sans-serif;
+	line-height: 30px;
+	margin: 20px 0 0 30px;
+	color: rgb(93,93,93);
+}
+.block-1-left{
+	float: left;
+	width: 291px;
+	height: 200px;
+    margin-right: 44px;
+}
+.block-1-left-header{
+	height: 30px;
+	margin: 0 0 20px;
+    border-bottom: 5px solid rgb(9,9,9);
+}
+.block-1-left-header>h1,
+.block-1-center-header>h1,
+.block-1-right-header>h1{
+	margin:  0 0 0 35px;
+}
+.block-1-left>p{
+	font: 13px Arial,Tahoma,Vardana, sans-serif;
+	line-height: 20px;
+	color: rgb(93,93,93);
+}
+
+.block-1-center{
+	float: left;
+	width: 290px;
+	height: 200px;
+	margin-right: 44px;
+}	 
+.block-1-center-header{
+	height: 30px;
+	margin: 0 0 20px;
+	border-bottom: 5px solid rgb(9,9,9);	
+}
+.block-1-right{
+	float: left;
+	width: 291px;
+	height:200px;
+}
+.block-1-right-header{
+	height: 30px;
+	margin: 0 0 20px;
+	border-bottom: 5px solid rgb(9,9,9);
+}
+.block-1-right-header>p{
+	font:  13px Arial,Tahoma,Vardana, sans-serif;
+	line-height: 20px;
+	margin: 30px 0 0 0;
+	color: rgb(93,93,93);
+}
+.main-block-2{
+	float: left;
+	width: 960px;
+	height: 210px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid rgb(192,192,192);
+}
+.main-block-2>h1,
+.block-3-left>h4{
+margin: 0 0 0 30px; 
+}
+
+.main-block-2>ul>li{
+	display: inline-block;
+}
+
+.main-block-2>ul{
+	padding:0; 
+}
+.main-block-img{
+	margin-right: 23px;
+}
+
